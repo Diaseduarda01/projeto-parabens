@@ -1,4 +1,4 @@
-# Projeto de Parabenização para o Papai 🎉
+# Projeto de Parabenização 🎉
 
 Este projeto é uma forma única e especial de parabenizar seu pai! Foi criado com o intuito de transmitir amor, carinho e gratidão de uma maneira diferente e criativa.
 
